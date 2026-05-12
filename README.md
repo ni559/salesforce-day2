@@ -66,6 +66,3 @@ College Management App
 
 Today I understood how Salesforce is structured and how developers and admins work on the platform. I also learned the difference between using configuration and coding for building solutions in Salesforce.
 
-## Trailhead Screenshots
-
-(Add your screenshots here)
